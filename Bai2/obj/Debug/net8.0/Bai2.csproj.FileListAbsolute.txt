@@ -1,0 +1,14 @@
+E:\My Studies\C#\LAB2_PK03822_DoLeMinhTrung\Bai2\bin\Debug\net8.0\Bai2.exe
+E:\My Studies\C#\LAB2_PK03822_DoLeMinhTrung\Bai2\bin\Debug\net8.0\Bai2.deps.json
+E:\My Studies\C#\LAB2_PK03822_DoLeMinhTrung\Bai2\bin\Debug\net8.0\Bai2.runtimeconfig.json
+E:\My Studies\C#\LAB2_PK03822_DoLeMinhTrung\Bai2\bin\Debug\net8.0\Bai2.dll
+E:\My Studies\C#\LAB2_PK03822_DoLeMinhTrung\Bai2\bin\Debug\net8.0\Bai2.pdb
+E:\My Studies\C#\LAB2_PK03822_DoLeMinhTrung\Bai2\obj\Debug\net8.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Studies\C#\LAB2_PK03822_DoLeMinhTrung\Bai2\obj\Debug\net8.0\Bai2.AssemblyInfoInputs.cache
+E:\My Studies\C#\LAB2_PK03822_DoLeMinhTrung\Bai2\obj\Debug\net8.0\Bai2.AssemblyInfo.cs
+E:\My Studies\C#\LAB2_PK03822_DoLeMinhTrung\Bai2\obj\Debug\net8.0\Bai2.csproj.CoreCompileInputs.cache
+E:\My Studies\C#\LAB2_PK03822_DoLeMinhTrung\Bai2\obj\Debug\net8.0\Bai2.dll
+E:\My Studies\C#\LAB2_PK03822_DoLeMinhTrung\Bai2\obj\Debug\net8.0\refint\Bai2.dll
+E:\My Studies\C#\LAB2_PK03822_DoLeMinhTrung\Bai2\obj\Debug\net8.0\Bai2.pdb
+E:\My Studies\C#\LAB2_PK03822_DoLeMinhTrung\Bai2\obj\Debug\net8.0\Bai2.genruntimeconfig.cache
+E:\My Studies\C#\LAB2_PK03822_DoLeMinhTrung\Bai2\obj\Debug\net8.0\ref\Bai2.dll
